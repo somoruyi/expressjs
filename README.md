@@ -44,3 +44,6 @@ Sample express code
        node index.js
      ```
 
+3. In the browser goto localhost:3000
+
+    ![    ](images/getting_started.png)
